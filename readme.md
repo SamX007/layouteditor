@@ -1,3 +1,3 @@
-## Tasks Hello Toast
-![](app/src/main/res/drawable/tasks.gif)
+## Hello Toast Homework
+![](app/src/main/res/drawable/homework.gif)
 
